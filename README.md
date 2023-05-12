@@ -9,3 +9,6 @@
 
 ## Bottom PCB:
 <img src="Extras/Bottom_Layer_PCB.gif"  width="100%" height="100%">
+
+## HyperPixel & RaspberryPi PCB:
+<img src="Extras/Hyperpixel_RPi_PCB.gif"  width="100%" height="100%">
